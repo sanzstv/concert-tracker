@@ -29,7 +29,7 @@
     "webpack-dev-server": "^1.16.5"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "babel-preset-stage-1": "^6.1.18",
     "brfs": "^1.4.3",
     "fs": "0.0.1-security",
